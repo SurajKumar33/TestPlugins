@@ -1,7 +1,6 @@
 
-
-
-
+- name: Broken-Links-Crawler
+  uses: ScholliYT/Broken-Links-Crawler-Action@v2.0.0
 
 
 <!DOCTYPE html>
